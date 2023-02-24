@@ -1,0 +1,17 @@
+#puppy-image{
+    height:500px;
+}
+
+.puppy-details{
+    font-size:1.5em;
+}
+
+#all-puppy-details{
+    
+}
+
+#puppy-detail-header{
+    font-size: 2em;
+    border-bottom: 3px black solid;
+    font-weight: bold;
+}

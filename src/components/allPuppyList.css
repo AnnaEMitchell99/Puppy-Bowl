@@ -1,0 +1,27 @@
+#list-of-puppies-section{
+    display:flex;
+    justify-content:space-evenly;
+    flex-direction:column;
+}
+
+#list-of-puppies{
+    display:flex;
+    border: 3px black solid;
+    flex-direction: column;
+    justify-content: space-evenly;
+    margin: 5px;
+    padding:3px;
+    background-color:lavender;
+}
+
+#link{
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    color: purple;
+}
+
+#searchbar{
+    height:3em;
+    width: 20em;
+    margin-bottom: 10px;
+    margin-left: 5px;
+}
